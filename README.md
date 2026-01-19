@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🚀 Gamer & Dev Bio Link - Carrd Project
+## 📌 Sobre o Projeto Este é um projeto de Landing Page Pessoal desenvolvido no estilo Carrd, focado no nicho Gamer, Streaming e Desenvolvimento. O objetivo é centralizar informações de setup, agenda de lives e portfólio técnico em uma interface moderna com estética Cyberpunk/Dark Mode.
 
-# Run and deploy your AI Studio app
+✨ Funcionalidades em Destaque
+Nível de Poder (Status): Gráfico de radar interativo para visualização de habilidades (Mecânica, Visão de Jogo, Carisma, etc.).
 
-This contains everything you need to run your app locally.
+Área do Setup: Seção detalhada com especificações de hardware (PC Desktop e Notebook Stream).
 
-View your app in AI Studio: https://ai.studio/apps/drive/1c4zVazFAzvLyVtoNL-H3c5C43XmDINIB
+Agenda de Lives: Cronograma semanal organizado para engajamento da comunidade.
 
-## Run Locally
+Central de Links: Integração com Twitch, YouTube, Discord e redes sociais.
 
-**Prerequisites:**  Node.js
+Seção de Contato: Card focado em conversão para parcerias e marcas.
+
+🛠️ Tecnologias e Ferramentas
+Plataforma: Carrd (Sitebuilder).
+
+Design: UI/UX focado em legibilidade e hierarquia visual.
+
+Recursos: Uso de gradientes, ícones personalizados e responsividade mobile.
+
+👤 Perfil do Desenvolvedor
+Conforme apresentado no projeto:
+
+Nome: Ryan (oTalDoSoaresx).
+
+Atuação: Desenvolvedor, Analista de Suporte e Tecnólogo em Segurança Cibernética.
+
+Interesses: Gameplay, Tech e Segurança da Informação.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Caso queira dar uma olhada no projeto ele ta hospedado!
+www.defyra.com.br
